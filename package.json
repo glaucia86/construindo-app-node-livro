@@ -1,0 +1,30 @@
+{
+  "name": "construindo-app-node-livro",
+  "version": "1.0.0",
+  "description": "Diretório de códigos de exemplos do livro: Construindo aplicações em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/construindo-app-node-livro.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "restful",
+    "npm"
+  ],
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/construindo-app-node-livro/issues"
+  },
+  "homepage": "https://github.com/glaucia86/construindo-app-node-livro#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
