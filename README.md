@@ -13,8 +13,8 @@ Repositório para fins de estudos relacionado a desenvolvimento de exemplos do L
 ## Tópicos Abordados:
 
 - **1.2: Programação Síncrona vs Assíncrona:**
-    * [sincrono.js]()
-    * [assincrono.js]()
+    * [sincrono.js](https://bit.ly/2N2Cdky)
+    * [assincrono.js](https://bit.ly/2N1fPrE)
 
 
 **documentação em desenvolvimento**
